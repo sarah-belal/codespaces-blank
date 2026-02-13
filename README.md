@@ -4,7 +4,7 @@ A Model Context Protocol (MCP) server that enables AI assistants like Claude to 
 
 ## Overview
 
-This project uses an MCP server to bridges AI with structured claims + member data, enabling natural language querying of insurance claims without requiring SQL knowledge.
+This project uses an MCP server to bridge AI with structured claims + member data, enabling natural language querying of insurance claims without requiring SQL knowledge.
 
 ## Features
 
